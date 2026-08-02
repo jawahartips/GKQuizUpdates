@@ -1,0 +1,48 @@
+{
+  "version": 5,
+  "releaseDate": "2026-08-01",
+  "updates": [
+
+    {
+      "action": "insert",
+      "id": 5001,
+      "category": "General Knowledge",
+      "question": "भारत का राष्ट्रीय जलीय जीव कौन सा है?",
+      "optionA": "मगरमच्छ",
+      "optionB": "डॉल्फिन",
+      "optionC": "कछुआ",
+      "optionD": "शार्क",
+      "correctAnswer": "B"
+    },
+
+     {
+      "action": "insert",
+      "id": 5002,
+      "category": "GK",
+      "question": "भारत का राष्ट्रीय जलीय जीव कौन सा है?",
+      "optionA": "मगरमच्छ",
+      "optionB": "डॉल्फिन",
+      "optionC": "कछुआ",
+      "optionD": "शार्क",
+      "correctAnswer": "B"
+    },
+
+    {
+      "action": "update",
+      "id": 2,
+      "category": "History",
+      "question": "भारत का प्रथम प्रधानमंत्री कौन था?",
+      "optionA": "महात्मा गांधी",
+      "optionB": "सरदार पटेल",
+      "optionC": "जवाहरलाल नेहरू",
+      "optionD": "डॉ. राजेन्द्र प्रसाद",
+      "correctAnswer": "C"
+    },
+
+    {
+      "action": "delete",
+      "id": 101
+    }
+
+  ]
+}
