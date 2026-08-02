@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "releaseDate": "2026-08-01",
   "updates": [
 
@@ -15,17 +15,6 @@
       "correctAnswer": "B"
     },
 
-     {
-      "action": "insert",
-      "id": 5002,
-      "category": "GK",
-      "question": "भारत का राष्ट्रीय जलीय जीव कौन सा है?",
-      "optionA": "मगरमच्छ",
-      "optionB": "डॉल्फिन",
-      "optionC": "कछुआ",
-      "optionD": "शार्क",
-      "correctAnswer": "B"
-    },
 
     {
       "action": "update",
